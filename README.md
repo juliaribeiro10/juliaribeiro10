@@ -1,16 +1,18 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 🖤
 
-<!--
-**juliaribeiro10/juliaribeiro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Julia
 
-Here are some ideas to get you started:
+- eu danço muito.
+- sou esforçada na escola
+- sou muito alegre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo 📧
+- 00001145685742SP@al.educacao.sp.gov.br
+
+- @julia.toquio
+
+- ![](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
+  
+
+
+
