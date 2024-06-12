@@ -4,7 +4,7 @@ meu nome é Julia
 
 - eu danço muito.
 - sou esforçada na escola
-- sou muito alegre
+- formada e graduada em alura
 
 - ### você pode entrar em contato comigo 📧
 - 00001145685742SP@al.educacao.sp.gov.br
